@@ -47,7 +47,7 @@
 - [NQueens](cp/NQueens.cpp)
 - [Longest Subarray with Zero Sum](cp/ZeroSum.cpp)
 - [Next Largest Permutation](cp/NextPermutation.cpp)
-- [Maximum Length Subarray with sum K](cp/MaxLengthSubarrayWithSumK.cpp)
+- [Maximum Length Subarray with sum K](../../MaxLength/C-Plus-Plus/cp/MaxLengthSubarrayWithSumK.cpp)
 
 ## Data Structures
 
